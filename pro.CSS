@@ -1,0 +1,86 @@
+body{margin: 2%}
+h1{font-weight: 700;}
+body{background-color:#F6F1D7}
+hover {color: maroon;background-color: red;}
+header{
+	height: 70 vh ;
+	position: relative;
+}
+#navber{
+	display: flex;
+	margin: 100 px ;
+	justify-content: space-between;
+	align-items: centerte;
+	padding: 50 px;
+}
+#navber u1 {
+	display: flex;
+margin-right: 100 px;
+font-weight: 700;
+}
+#navbar ul il a {
+	padding: 20 px;
+	color:#4E2F0D ;
+	font-weight: 700;
+}
+
+#header{ 
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 80%;
+
+ }
+header{ 
+text-align: center;
+padding: 10%;
+
+ }
+header h1{ 
+font-size: 200%;
+color:#694117 ;
+ }
+header p { 
+margin: 60 px;
+color: #694117;
+padding: 60px;
+font-size: 120%;
+ }
+header nav { 
+padding:1 px;
+ }
+active { color:#694117; }
+a{ 
+padding: 1%;
+background:#F1DBC4  ;
+text-decoration: none;
+border-radius: 5 px;
+ }
+a:hover{ 
+padding: 4%;
+border-radius: 50 px;
+ }
+#head{ 
+padding: 3%;
+margin-right: 60px;
+margin: 100 px ;
+background:#F1DBC4 ;
+text-align: center;
+ }
+ #ae{
+ 	text-align: center;
+ }
+#he{ 
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 75%;
+margin: 40 px;
+color: orange;
+padding: 2 px;
+font-size: 45;
+
+
+ }
